@@ -35,3 +35,12 @@ body {
 #name, #title {
   color: aliceblue;
 }
+
+.nav-item {
+  font-size: large;
+}
+
+#mylinks a{
+  padding: 20px;
+  font-size: large;
+}
