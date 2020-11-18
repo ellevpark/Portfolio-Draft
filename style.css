@@ -1,7 +1,14 @@
 .col-4 {
-  padding: 50px;
+  padding: 30px;
 }
 
 .col-8 {
   padding: 30px;
+}
+
+.img-fluid {
+  border-radius: 50%;
+  height: 10em;
+  width: 10em;
+  padding: 5px;
 }
