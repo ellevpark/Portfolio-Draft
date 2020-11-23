@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-image: linear-gradient(to bottom right, rgb(0, 13, 26), rgb(66, 64, 64)) !important;
+  background-color: black !important;
   width: 100vw;
   height: 100vh;
   background-size: cover; 
@@ -29,13 +29,6 @@ body {
   width: 12em;
   padding: 5px;
 }
-
-.jumbotron {
-  padding: 25px;
-  background-image: url("Images/background.png"); 
-  color: white;  
-}
-
 
 #name, #title {
   color: aliceblue;
@@ -82,9 +75,14 @@ figcaption {
   width: 70%;
   margin-top: 20px;
   margin-bottom: 20px;
-  box-shadow: 5px 10px #e2e1e1; 
+  box-shadow: 5px 10px #424242; 
 }
 
 #preview:hover {
   animation: forwards;
+}
+
+ul a {
+color: aliceblue !important;
+
 }
