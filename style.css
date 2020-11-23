@@ -61,3 +61,7 @@ body {
   font-size: large;
   color: aliceblue;
 }
+
+#linkedin, #email {
+  color: aliceblue;
+}
