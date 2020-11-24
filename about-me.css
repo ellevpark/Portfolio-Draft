@@ -30,8 +30,20 @@ body {
   padding: 5px;
 }
 
+.jumbotron {
+  padding: 25px;
+  background-image: url("Images/background.png"); 
+  color: white;  
+}
+
+
 #name, #title {
   color: aliceblue;
+}
+
+
+.lead{
+  text-indent: 50px;
 }
 
 .nav-item {
@@ -55,34 +67,6 @@ body {
   color: aliceblue;
 }
 
-
-.container {
- width: 90%;
-}
-
-#schedule {
-  height: 110%;
-}
-
-figcaption {
+#linkedin, #email {
   color: aliceblue;
-  display: block;
-  width: 70%;
-  padding:10px;
-}
-
-#preview {
-  width: 70%;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  box-shadow: 5px 10px #424242; 
-}
-
-#preview:hover {
-  animation: forwards;
-}
-
-ul a, ::marker {
-color: aliceblue !important;
-
 }
