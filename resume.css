@@ -1,0 +1,72 @@
+html {
+  background-color: black;
+}
+
+body {
+  background-color: black !important;
+  width: 100vw;
+  height: 100vh;
+  background-size: cover; 
+
+}
+#mainpage {
+  background-color: black;
+  background-image: linear-gradient(to bottom right, rgb(0, 13, 26), rgb(66, 64, 64));
+
+}
+
+
+.img-fluid {
+  border-radius: 50%;
+  height: 10em;
+  width: 12em;
+  padding: 5px;
+}
+
+.jumbotron {
+  padding: 25px;
+}
+
+
+#name, #title {
+  color: aliceblue;
+}
+
+.nav-item {
+  font-size: large;
+}
+
+.nav-link {
+  color: aliceblue !important;
+  
+}
+
+.nav-link:hover {
+  color: cadetblue;
+  /* background-color: lightgray; */
+
+}
+
+.project a{
+  color: black !important;
+}
+.project a:hover {
+  color: darkcyan !important;
+}
+
+.container a {
+  color: black;
+}
+.container a:hover {
+  color: darkcyan !important;
+
+}
+#mylinks a{
+  padding: 5px;
+  font-size: large;
+  color: aliceblue !important;
+}
+
+#linkedin, #email {
+  color: aliceblue;
+}
